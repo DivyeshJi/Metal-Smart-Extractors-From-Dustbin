@@ -1,3 +1,3 @@
 # Metal-Smart-Extractors-From-Dustbin
 Final Year Project for solving current waste management.
-Here We have made a Dustbin with some high levels sensors which can do the Seperation work as well as object detecion work. Also we have added a alert system which can give alert to users when dustbin gets full at certain level like in our case we keep 90% level to give alert to users with location as well as with the time & date.
+o	We developed a project for final year in our college where we built a dustbin in project which do the separation of Metal Trash from actual trash that is thrown by users & also this project has 1 more system which is the alert system which gave alert to users whenever the dustbin gets full & disposal is remaining - IOT Technologies, Python Programming
